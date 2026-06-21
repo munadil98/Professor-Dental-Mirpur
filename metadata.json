@@ -1,0 +1,6 @@
+{
+  "name": "Doctor BD 24",
+  "description": "Your Trusted Health Partner 24/7 providing compassionate care and modern medical solutions in Dhaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
